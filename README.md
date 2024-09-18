@@ -36,10 +36,7 @@ I'm a passionate undergrad with a love for building innovative solutions and exp
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mallik0&layout=compact&theme=radical)
 
 ---
-
----
-
 ### 📫 Let's Connect:
 
-- [LinkedIn](https://www.linkedin.com/in/mallik-narsina-314401233/)
-- [Twitter](https://x.com/malliknarsina)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mallik-narsina-314401233/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/malliknarsina)
