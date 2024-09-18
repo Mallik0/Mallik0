@@ -32,14 +32,10 @@ I'm a passionate undergrad with a love for building innovative solutions and exp
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Mallik0]&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[Mallik0]&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mallik0&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mallik0&layout=compact&theme=radical)
 
 ---
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=[Mallik0]&theme=gruvbox)
 
 ---
 
