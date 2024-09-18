@@ -32,18 +32,18 @@ I'm a passionate undergrad with a love for building innovative solutions and exp
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Mallik0]&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[Mallik0]&layout=compact&theme=radical)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=[YourUsername]&theme=gruvbox)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=[Mallik0]&theme=gruvbox)
 
 ---
 
 ### 📫 Let's Connect:
 
 - [LinkedIn](https://www.linkedin.com/in/mallik-narsina-314401233/)
-- [Twitter]((https://x.com/malliknarsina)
+- [Twitter](https://x.com/malliknarsina)
