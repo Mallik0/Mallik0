@@ -1,4 +1,5 @@
-# Hi there, I'm Mallik 👋
+<h1 align="center">Hi there, I'm Mallik <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px"></h1>
+
 
 I'm a passionate undergrad with a love for building innovative solutions and exploring new technologies.
 
