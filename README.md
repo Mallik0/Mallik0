@@ -3,7 +3,7 @@
 
 I'm a passionate undergrad with a love for building innovative solutions and exploring new technologies.
 
-- 🌱 I’m currently exploring **Web3** and its exciting potential in decentralized applications.
+- 🌱 I’m currently exploring **GenAI and Web3** and its exciting potential in decentralized applications.
 - 💬 Ask me about **MERN Stack**
 - 📫 How to reach me: **malliknarsina.folio@gmail.com**
 - ⚡ Fun fact: **I play guitar**
